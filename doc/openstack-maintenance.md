@@ -11,14 +11,14 @@
 | ------ | ---- | ---------------- | ------------------ |
 | 第 1 天 | 上午 | [基础](#1-基础)    | [1.1 简介](#11-简介) |
 |        |     | [部署](#2-部署)    | [2.1 部署前准备](#21-部署前准备) |
-|        |     |                   | [2.2 DevStack](#22-DevStack) |
-|        | 下午 |                   | [2.3 Ansible](#23-Ansible) |
-|        |     |                   | [2.4 Kolla](#24-Kolla) |
-|        |     |                   | [2.5 Kolla Ansible](#25-Kolla-Ansible) |
+|        |     |                   | [2.2 DevStack](#22-devstack) |
+|        | 下午 |                   | [2.3 Ansible](#23-ansible) |
+|        |     |                   | [2.4 Kolla](#24-kolla) |
+|        |     |                   | [2.5 Kolla Ansible](#25-kolla-ansible) |
 | 第 2 天 | 上午 | [管理](#3-管理)    | [3.1 界面操作](#31-界面操作) |
 |        | 下午 |                   | [3.2 命令行操作](#32-命令行操作) |
-|        |     |                   | [3.3 OpenStack Ansible](#33-OpenStack-Ansible) |
-| 第 3 天 | 上午 | [运维](#4-运维)    | [4.1 Kolla Ansible 运维](#41-Kolla-Ansible-运维) |
+|        |     |                   | [3.3 OpenStack Ansible](#33-openstack-ansible) |
+| 第 3 天 | 上午 | [运维](#4-运维)    | [4.1 Kolla Ansible 运维](#41-kolla-ansible-运维) |
 |        |     |                   | [4.2 小版本升级](#42-小版本升级) |
 |        |     |                   | [4.3 扩缩容](#43-扩缩容) |
 |        | 下午 |                   | [4.4 基础组件运维](#44-基础组件运维) |
